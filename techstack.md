@@ -3,30 +3,30 @@
 ## Tech Stack
 nvtam2105/ftgo-application is built on the following main stack:
 
+- [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
+- [Groovy](https://groovy-lang.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
+- [Swift](https://developer.apple.com/swift/) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- [GraphQL](http://graphql.org/) – Query Languages
+- [Kowl](https://cloudhut.dev/) – Kafka Tools
 - [CircleCI](https://circleci.com/) – Continuous Integration
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Groovy](https://groovy-lang.org/) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
-- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
-- [Zipkin](https://zipkin.io/) – Monitoring Tools
 - [Prometheus](http://prometheus.io/) – Monitoring Tools
+- [Zipkin](https://zipkin.io/) – Monitoring Tools
+- [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
 - [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [GraphQL](http://graphql.org/) – Query Languages
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
 - [Apollo](https://www.apollographql.com/) – Platform as a Service
-- [Kowl](https://cloudhut.dev/) – Kafka Tools
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -36,30 +36,30 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 nvtam2105/ftgo-application is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png' alt='Gherkin'/> [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/19821/default_8e224265dfb7592e42c06770be918f9458812f52.png' alt='Kowl'/> [Kowl](https://cloudhut.dev/) – Kafka Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1909/aws-lambda.png' alt='AWS Lambda'/> [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png' alt='Gherkin'/> [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png' alt='Zipkin'/> [Zipkin](https://zipkin.io/) – Monitoring Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png' alt='Zipkin'/> [Zipkin](https://zipkin.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1909/aws-lambda.png' alt='AWS Lambda'/> [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
 - <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5095/serverless-logo.png' alt='Serverless'/> [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
 - <img width='25' height='25' src='https://img.stackshare.io/service/5508/CyUH653y.png' alt='Apollo'/> [Apollo](https://www.apollographql.com/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/19821/default_8e224265dfb7592e42c06770be918f9458812f52.png' alt='Kowl'/> [Kowl](https://cloudhut.dev/) – Kafka Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/5095/serverless-logo.png' alt='Serverless'/> [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -70,7 +70,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nvtam2105/ftgo-application](https://github.com/nvtam2105/ftgo-application)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|42<br/>Tools used|01/05/24 <br/>Report generated|
+|42<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
